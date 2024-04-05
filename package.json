@@ -8,4 +8,7 @@
   },
   "author": "",
   "license": "ISC"
+  "publishConfig": {
+    "@kristjan-jonsson:registry": "https://npm.pkg.github.com"
+  }
 }
